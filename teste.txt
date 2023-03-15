@@ -1,4 +1,8 @@
 1 criamos um repositório
 2 criamos uma pasta
-3 git init
-4 git remote add
+3 git init (dentro da pasta)
+4 git remote add origin (seu link do repositório)
+5 git remote add origin https...
+6 git add .
+7 git commit -m "leeh alo - aula git"
+8 git push -u origin master
